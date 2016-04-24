@@ -1,4 +1,4 @@
-# Vision App - a sample iOS app for image tagging and face detection built with IBM Bluemix OpenWhisk
+# Mazu - Species recognition for fish
 
 ## Inspiration
 Currently, there is a lack of data in the fishing industry that supports research for sustainable fishing. Statistics that account for at least half of the global catch are not being documented.
